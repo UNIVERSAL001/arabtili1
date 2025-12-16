@@ -89,7 +89,7 @@ export default function Home() {
             textShadow: 'none',
             filter: 'drop-shadow(0 2px 8px rgba(2, 235, 81, 0.3))'
           }}>
-            Arab tilini oson va tez o&apos;rganishni istaysizmi? Mutlaqo BEPUL o&apos;rganishga nima deysiz?
+            Arab tilini oson va tez o&apos;rganishni istaysizmi? Mutlaqo BEPUL o&apos;rganishga tayyormisiz?
           </h1>
 
           {/* Main content - Text on left, Image + Timer on right */}
@@ -110,7 +110,7 @@ export default function Home() {
                 fontWeight: 700,
                 lineHeight: '1.3'
               }}>
-                Unda siz ayni to&apos;g&apos;ri manzildasiz!
+                Unda siz to&apos;g&apos;ri manzildasiz!
               </p>
 
               {/* Benefits */}
